@@ -109,7 +109,6 @@ python srt_translator_context.py
 
 ## 反馈与支持
 若使用过程中遇到问题或有功能建议，可通过以下方式反馈：
-- 提交Issue
 - 邮件联系：[flyingeagle.yjk@gmail.com]
 
 更新时间：2025年9月
